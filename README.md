@@ -1,7 +1,7 @@
 # Hi, I am Yumi👋
 I'm a React developer based in Vancouver.
 
-- 🎓 Leaning JS, React, Node at [ciccc]https://ciccc.ca/
+- 🎓 Leaning JS, React, Node at[ciccc](https://ciccc.ca/)
 - 💓 Interests: Video Games🎮, Traveling🏖, Food🍖
 - 📪 How to reach me: a13158y@gmail.com
 
